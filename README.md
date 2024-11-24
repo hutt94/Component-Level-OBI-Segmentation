@@ -11,7 +11,7 @@ Source code for AAAI'25 paper "[Component-Level Segmentation for Oracle Bone Ins
 ## Code
 
 ## Dataset
-Follow [here](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main) to apply for the dataset and [here](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main/OBI_Component_20) for more details about the dataset.
+Please refer to [Component-Level Oracle Bone Inscription Retrieval](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main) to apply for the dataset and [here](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main/OBI_Component_20) for more details about the dataset.
 
 ## Citation
 ```
