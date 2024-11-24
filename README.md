@@ -15,7 +15,7 @@ Please refer to [Component-Level Oracle Bone Inscription Retrieval](https://gith
 
 ## Citation
 ```
-@inproceedings{hu2024component-S,
+@inproceedings{hu2025component,
   title={Component-Level Segmentation for Oracle Bone Inscription Decipherment},
   author={Hu, Zhikai and Cheung, Yiu-ming and Zhang, Yonggang and Zhang, Peiying and Tang, Pui-ling},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
@@ -24,7 +24,7 @@ Please refer to [Component-Level Oracle Bone Inscription Retrieval](https://gith
   pages={},
   year={2025}
 }
-@inproceedings{hu2024component-R,
+@inproceedings{hu2024component,
   title={Component-Level Oracle Bone Inscription Retrieval},
   author={Hu, Zhikai and Cheung, Yiu-ming and Zhang, Yonggang and Zhang, Peiying and Tang, Pui-ling},
   booktitle={Proceedings of the 2024 International Conference on Multimedia Retrieval},
