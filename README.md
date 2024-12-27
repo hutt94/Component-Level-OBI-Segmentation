@@ -1,19 +1,19 @@
-# Component-Level_OBI_Segmentation
+# Component-Level OBI Segmentation
 Source code for AAAI'25 paper "[Component-Level Segmentation for Oracle Bone Inscription Decipherment]()"
 
-## To Do List
+## 0. To Do List
 1. -[ ] Task Definition
 2. -[ ] Code
 3. -[ ] Dataset
 
-## Task Definition
+## 1. Task Definition
 
-## Code
+## 2. Code
 
-## Dataset
+## 3. Dataset
 Please refer to [Component-Level Oracle Bone Inscription Retrieval](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main) to apply for the dataset and [here](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main/OBI_Component_20) for more details about the dataset.
 
-## Citation
+## 4. Citation
 ```
 @inproceedings{hu2025component,
   title={Component-Level Segmentation for Oracle Bone Inscription Decipherment},
