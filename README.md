@@ -10,7 +10,7 @@ Source code for AAAI'25 paper "[Component-Level Segmentation for Oracle Bone Ins
 
 ## 2. Code
 ### Prepare MMlab
-our environment is cu113 and torch1.11.0, the mmlab installation is as follow:
+Installing the MMlab as follow:
 ```
 pip install mmcv-full==1.4.7 -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.11.0/index.html
 pip install mmsegmentation==0.24.0
