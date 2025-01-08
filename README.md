@@ -9,6 +9,33 @@ Source code for AAAI'25 paper "[Component-Level Segmentation for Oracle Bone Ins
 ## 1. Task Definition
 
 ## 2. Code
+### Prepare MMlab
+our environment is cu113 and torch1.11.0, the mmlab installation is as follow:
+```
+pip install mmcv-full==1.4.7 -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.11.0/index.html
+pip install mmsegmentation==0.24.0
+```
+you can find other mmlab version for your cuda and torch from 
+```
+https://download.openmmlab.com/mmcv/dist/{your_cuda_version}/{your_torch_version}/index.html
+```
+### Download PVT pre-trained weight
+we use the pvt-medium as backbone
+```
+https://github.com/whai362/PVT
+```
+### Train
+```
+python train.py --data_path your_data_path
+```
+### Test
+```
+python test.py --data_path your_data_path
+```
+### Visual
+```
+python visual.py --data_path your_data_path
+```
 
 ## 3. Dataset
 Please refer to [Component-Level Oracle Bone Inscription Retrieval](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main) to apply for the dataset and [here](https://github.com/hutt94/Component-Level_OBI_Retrieval/tree/main/OBI_Component_20) for more details about the dataset.
