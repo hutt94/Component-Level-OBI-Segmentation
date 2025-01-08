@@ -1,0 +1,5 @@
+pytorch==1.11.0
+cuda==11.3
+mmcv-full==1.4.7
+mmsegmentation==0.24.0
+timm
