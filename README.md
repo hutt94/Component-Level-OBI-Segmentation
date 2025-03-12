@@ -1,5 +1,5 @@
 # Component-Level OBI Segmentation
-Source code for AAAI'25 paper "[Component-Level Segmentation for Oracle Bone Inscription Decipherment]()"
+Source code for AAAI'25 paper "[Component-Level Segmentation for Oracle Bone Inscription Decipherment](https://drive.google.com/file/d/1dCciWu2y5CTTa0a_LCfuV-l-dwonYwFB/view?usp=drive_link)"
 
 ## 0. To Do List
 1. -[x] Task Definition
