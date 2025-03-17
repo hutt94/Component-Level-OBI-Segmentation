@@ -25,7 +25,7 @@ The final deciphered meaning 蠢（蠢动，骚动） differs significantly from
 
 ### Why this task?
 One of the key contributions of Dr. Jiang Yubin lies in revising the erroneous component segmentation of OBI _B_ from previous study during this step, thereby enabling the textual evidence in Step 3 to perfectly align with the corrected segmentation, as shown in the above figure.
-Thus, accurately segmenting OBIs to extract the target components is crucial. We termed this task **Component-Lvel OBI Segmentation**.
+Thus, accurately segmenting OBIs to extract the target components is crucial. We termed this task **Component-Level OBI Segmentation**.
 
 
 ## 2. Code
