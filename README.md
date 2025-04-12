@@ -1,5 +1,5 @@
 # Component-Level OBI Segmentation
-Source code for AAAI'25 paper "[Component-Level Segmentation for Oracle Bone Inscription Decipherment](https://drive.google.com/file/d/1dCciWu2y5CTTa0a_LCfuV-l-dwonYwFB/view?usp=drive_link)"
+Source code for AAAI'25 paper "[Component-Level Segmentation for Oracle Bone Inscription Decipherment](https://ojs.aaai.org/index.php/AAAI/article/view/35030)"
 
 You may find our other works on OBI:
 
@@ -63,9 +63,9 @@ Please refer to [Component-Level Oracle Bone Inscription Retrieval](https://gith
   title={Component-Level Segmentation for Oracle Bone Inscription Decipherment},
   author={Hu, Zhikai and Cheung, Yiu-ming and Zhang, Yonggang and Zhang, Peiying and Tang, Pui-ling},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={},
-  number={},
-  pages={},
+  volume={39},
+  number={27},
+  pages={28116-28124},
   year={2025}
 }
 @inproceedings{hu2024component,
